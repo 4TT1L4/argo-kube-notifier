@@ -47,7 +47,7 @@ spec:
     Version:  "v1"
   #
   Namespace: default
-  # Define the notifiers channel. Currently Slack and email are the only supported notifiers:
+  # Define the notifiers channel. Currently Slack and email are the only supported notification channels:
     -
       name: slack
       slack:
